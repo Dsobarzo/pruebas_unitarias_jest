@@ -1,25 +1,25 @@
 {
-  "name": "pruebas_unitarias_jest",
-  "version": "1.0.0",
-  "description": "test unit",
-  "main": "index.js",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Dsobarzo/pruebas_unitarias_jest.git"
-  },
-  "author": "Diego Sobarzo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dsobarzo/pruebas_unitarias_jest/issues"
-  },
-  "homepage": "https://github.com/Dsobarzo/pruebas_unitarias_jest#readme",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  }
+    "name": "pruebas_unitarias_jest",
+    "version": "1.0.0",
+    "description": "test unit",
+    "main": "index.js",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Dsobarzo/pruebas_unitarias_jest.git"
+    },
+    "author": "Diego Sobarzo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Dsobarzo/pruebas_unitarias_jest/issues"
+    },
+    "homepage": "https://github.com/Dsobarzo/pruebas_unitarias_jest#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
 }
