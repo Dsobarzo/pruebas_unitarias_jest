@@ -1,3 +1,5 @@
 const suma = (a, b) => a + b;
 
-module.exports = { suma };
+const resta = (a, b) => a - b;
+
+module.exports = { suma, resta };
