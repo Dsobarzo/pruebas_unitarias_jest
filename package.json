@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Dsobarzo/pruebas_unitarias_jest/issues"
   },
-  "homepage": "https://github.com/Dsobarzo/pruebas_unitarias_jest#readme"
+  "homepage": "https://github.com/Dsobarzo/pruebas_unitarias_jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
